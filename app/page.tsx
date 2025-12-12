@@ -17,9 +17,6 @@ export default function HomePage() {
         </Link>
       </div>
       
-      <footer className="mt-8 text-gray-400 text-sm">
-        © 2025 DataMobile App
-      </footer>
     </main>
   );
 }
